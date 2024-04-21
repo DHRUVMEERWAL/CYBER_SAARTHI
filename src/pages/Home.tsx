@@ -15,7 +15,7 @@ export const Home = () => {
                     </div>
                 </div>
                 <div className="hidden size-7/12 items-center md:flex md-w-auto md:items-center">
-                    <img className="w-full h-auto max-w-md xl:max-w-none" src="public/hero_2.jpg" alt="" />
+                    <img className="w-full h-auto max-w-md xl:max-w-none" src="../../public/hero_2.jpg" alt="" />
                 </div>
             </div>
             <Footer />
